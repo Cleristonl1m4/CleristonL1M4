@@ -4,8 +4,8 @@ It is important...
   to tell you that here on my GitHub, I am documenting my evolution process. <br>
   I hope you enjoy being here 
   <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleristonl1m4&layout=compact&langs_count=8&theme=transparent&size_weight=0.7&count_weight=0.3)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Clériston's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cleristonl1m4&show_icons=true&count_private=true&rank_icon=percentile&theme=transparent&line=transparent&cacheseconds=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleristonl1m4&layout=compact&langs_count=8&theme=transparent&size_weight=0.7&count_weight=0.3)](https://github.com/anuraghazra/github-readme-stats)
+[![Clériston's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cleristonl1m4&show_icons=true&count_private=true&rank_icon=percentile&theme=transparent&line=transparent&cacheseconds=5)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 #### &#128295; Tech:
   - BackEnd:<br>

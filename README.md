@@ -9,7 +9,6 @@ It is important...
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleristonl1m4&layout=compact&langs_count=7&theme=transparent"/> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cleristonl1m4&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
-    
 #### &#128295; Tech:
   - BackEnd:<br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>

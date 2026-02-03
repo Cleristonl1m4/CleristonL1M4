@@ -2,12 +2,7 @@
 
 Welcome to my GitHub profile! This is where I document my journey as a developer, sharing projects and tracking my evolution in the tech world. Feel free to explore and connect!
 
-<div align="center">
-  <a href="https://github.com/Cleristonl1m4">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Cleristonl1m4&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleristonl1m4&layout=compact&langs_count=7&theme=transparent"/>
-  </a>
-</div>
+
 
 ---
 

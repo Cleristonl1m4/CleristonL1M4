@@ -2,7 +2,13 @@
 
 Welcome to my GitHub profile! This is where I document my journey as a developer, sharing projects and tracking my evolution in the tech world. Feel free to explore and connect!
 
-
+<div align="center">
+  <a href="https://github.com/Cleristonl1m4">
+    <!-- Profile Views -->
+    <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cleristonl1m4&theme=github_dark"/>
+    <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cleristonl1m4&theme=github_dark"/>
+  </a>
+</div>
 
 ---
 

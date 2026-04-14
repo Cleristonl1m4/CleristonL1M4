@@ -1,51 +1,59 @@
-# Hey! I'm Cleriston! 👋
+# Olá, eu sou o Clériston! 👋
 
-Welcome to my GitHub profile! This is where I document my journey as a developer, sharing projects and tracking my evolution in the tech world. Feel free to explore and connect!
+**Desenvolvedor Full Stack Java | Especialista em Soluções Escaláveis**
+
+Desenvolvedor Full Stack com foco no ecossistema Java, orientado à construção de sistemas escaláveis e sustentáveis em produção. Experiência prática no desenvolvimento de APIs REST consistentes e interfaces funcionais, com decisões técnicas guiadas por contexto não por tendência.Foco em Atuar com arquitetura de microserviços, considerando trade-offs de acoplamento, latência e complexidade operacional. Resolver problemas de negócio com eficiência técnica mensurável, priorizando desempenho, observabilidade e manutenibilidade ao longo do ciclo de vida do sistema.
+
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Ecosystem
 
-### Backend
+### ☕ Backend Development
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
-### Frontend
+### 💻 Frontend & Web
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Databases
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+### 🗄️ Database & Data Analysis
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Data Analysis
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
-### Tools & IDEs
+### 🔧 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-
----
-
-## 🌍 Languages
-- **Portuguese:** Native
-- **English:** Basic
-
----
-
-## 📫 Let's Connect!
-
-<a href="https://www.linkedin.com/in/clériston-lima-8723632b6/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
 
 ---
 
 <div align="center">
-  <i>⭐ Feel free to star any repositories you find interesting!</i>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cleristonl1m4&theme=react&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🚀 Destaques e Projetos
+* **API de Gestão Java/Spring:** Implementação de arquitetura limpa, autenticação JWT.
+---
+
+## 🌍 Idiomas
+* **Português:** Nativo
+* **Inglês:** Técnico / Em desenvolvimento
+
+## 📫 Vamos conversar!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clériston-lima-8723632b6/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cleristonlima180600@gmail.com)
+
+---
+<div align="center">
+  "O código limpo sempre parece que foi escrito por alguém que se importa."
 </div>

@@ -8,12 +8,12 @@ Desenvolvedor Full Stack com foco no ecossistema Java, orientado à construção
 
 ## 🛠️ Tech Stack & Ecosystem
 
-<div>
-  <a href="https://github.com/Cleristonl1m4">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleristonl1m4&layout=compact&langs_count=7&theme=dark&bg_color=1a1b27&title_color=bbc2cf&text_color=8b949e&icon_color=6e7681&hide_border=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cleristonl1m4&show_icons=true&theme=dark&bg_color=1a1b27&title_color=bbc2cf&text_color=8b949e&icon_color=6e7681&hide_border=true&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap; margin: 30px 0;">
+    <a href="https://github.com/Cleristonl1m4">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleristonl1m4&layout=compact&langs_count=7&theme=dark&bg_color=1a1b27&title_color=bbc2cf&text_color=8b949e&icon_color=6e7681&hide_border=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cleristonl1m4&show_icons=true&theme=dark&bg_color=1a1b27&title_color=bbc2cf&text_color=8b949e&icon_color=6e7681&hide_border=true&include_all_commits=true&count_private=true"/>
+    </a>
+  </div>
 
 ### ☕ Backend Development
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
